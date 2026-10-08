@@ -1,0 +1,685 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "free",
+    "box_uv": false
+  },
+  "name": "Стародавня Відьма",
+  "model_identifier": "tiktokbattle:ancient_witch",
+  "resolution": {
+    "width": 64,
+    "height": 64
+  },
+  "elements": [
+    {
+      "name": "Тулуб",
+      "type": "cube",
+      "uuid": "c93ca895-4146-436e-99b6-004643062622",
+      "from": [
+        -4,
+        16.799999999999997,
+        -2
+      ],
+      "to": [
+        4,
+        33.599999999999994,
+        2
+      ],
+      "color": 1,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    },
+    {
+      "name": "Голова",
+      "type": "cube",
+      "uuid": "a05f66f2-c478-48e8-bfd2-c2bb8a443e5f",
+      "from": [
+        -4,
+        33.599999999999994,
+        -4
+      ],
+      "to": [
+        4,
+        44.8,
+        4
+      ],
+      "color": 2,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    },
+    {
+      "name": "Ліва рука",
+      "type": "cube",
+      "uuid": "78d9cc3c-6102-424d-aff4-910f0fe20c5c",
+      "from": [
+        -7,
+        18.2,
+        -2
+      ],
+      "to": [
+        -4,
+        33.599999999999994,
+        2
+      ],
+      "color": 1,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    },
+    {
+      "name": "Права рука",
+      "type": "cube",
+      "uuid": "7b894391-a92a-4694-8385-d836364ecc20",
+      "from": [
+        4,
+        18.2,
+        -2
+      ],
+      "to": [
+        7,
+        33.599999999999994,
+        2
+      ],
+      "color": 1,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    },
+    {
+      "name": "Ліва нога",
+      "type": "cube",
+      "uuid": "b8ad3103-5b3b-4110-8ae4-92819b4d8d32",
+      "from": [
+        -4,
+        0,
+        -2
+      ],
+      "to": [
+        -0.5,
+        16.799999999999997,
+        2
+      ],
+      "color": 0,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    },
+    {
+      "name": "Права нога",
+      "type": "cube",
+      "uuid": "3495465b-5fdf-4cfa-96e5-000b1531ee31",
+      "from": [
+        0.5,
+        0,
+        -2
+      ],
+      "to": [
+        4,
+        16.799999999999997,
+        2
+      ],
+      "color": 0,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    },
+    {
+      "name": "Посох або тризуб",
+      "type": "cube",
+      "uuid": "b0c30ec2-471f-4edd-8ef1-51a1de15b609",
+      "from": [
+        7,
+        5.6,
+        -0.8
+      ],
+      "to": [
+        8.5,
+        49.0,
+        0.8
+      ],
+      "color": 6,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    },
+    {
+      "name": "Мантія",
+      "type": "cube",
+      "uuid": "e08b630c-d085-4837-875a-1a06c8d2e635",
+      "from": [
+        -5,
+        12.6,
+        2
+      ],
+      "to": [
+        5,
+        35.0,
+        4
+      ],
+      "color": 3,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    },
+    {
+      "name": "Корона або каптур",
+      "type": "cube",
+      "uuid": "fa42708d-af42-49d3-b579-83789505552f",
+      "from": [
+        -5,
+        44.8,
+        -5
+      ],
+      "to": [
+        5,
+        49.0,
+        5
+      ],
+      "color": 3,
+      "autouv": 1,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": null
+        }
+      }
+    }
+  ],
+  "outliner": [
+    "c93ca895-4146-436e-99b6-004643062622",
+    "a05f66f2-c478-48e8-bfd2-c2bb8a443e5f",
+    "78d9cc3c-6102-424d-aff4-910f0fe20c5c",
+    "7b894391-a92a-4694-8385-d836364ecc20",
+    "b8ad3103-5b3b-4110-8ae4-92819b4d8d32",
+    "3495465b-5fdf-4cfa-96e5-000b1531ee31",
+    "b0c30ec2-471f-4edd-8ef1-51a1de15b609",
+    "e08b630c-d085-4837-875a-1a06c8d2e635",
+    "fa42708d-af42-49d3-b579-83789505552f"
+  ],
+  "textures": [],
+  "animations": []
+}
