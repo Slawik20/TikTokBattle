@@ -1,0 +1,39 @@
+name: TikTokBattle
+version: 0.1.0
+main: ua.tiktokbattle.TikTokBattle
+api-version: '1.20'
+author: TikTokBattle
+commands:
+  spawnmobgren:
+    description: Set green spawn
+    permission: battle.admin
+  spawnmobpurple:
+    description: Set purple spawn
+    permission: battle.admin
+  spawnblockgr:
+    description: Set green core at targeted block
+    usage: /spawnblockgr <hp>
+    permission: battle.admin
+  spawnblockpurple:
+    description: Set purple core at targeted block
+    usage: /spawnblockpurple <hp>
+    permission: battle.admin
+  battlelane:
+    description: Add or clear team lane waypoints
+    usage: /battlelane <green|purple> <1|2|3> <add|clear>
+    permission: battle.admin
+  battlespawn:
+    description: Enqueue mobs
+    usage: /battlespawn <green|purple> <mob> <count>
+    permission: battle.admin
+  battlestart:
+    permission: battle.admin
+  battlestop:
+    permission: battle.admin
+  battlereset:
+    permission: battle.admin
+  battlestatus:
+    permission: battle.admin
+permissions:
+  battle.admin:
+    default: op

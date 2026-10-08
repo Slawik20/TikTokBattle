@@ -1,0 +1,7 @@
+max-mobs-per-team: 50
+core-attack-range: 2.8
+mob-target-range: 9.0
+spawn-interval-ticks: 10
+match-duration-seconds: 300
+core-attack-interval-ticks: 40
+mob-stuck-seconds: 12
