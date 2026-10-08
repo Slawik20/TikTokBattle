@@ -5,3 +5,19 @@ spawn-interval-ticks: 10
 match-duration-seconds: 300
 core-attack-interval-ticks: 40
 mob-stuck-seconds: 12
+
+# Безкоштовне відображення моделей через ItemDisplay (Paper 1.20.1)
+models:
+  enabled: false
+  y-offset: 1.0
+  # Small visual animation, no additional mobs or particles.
+  walk-bob: 0.075
+
+# Короткий ефект лише під час здібності боса (раз на 30 секунд)
+boss-effects:
+  enabled: true
+  particles: 8
+
+# Серверна бойова система (без AI-атак мобів)
+combat:
+  attack-cooldown-ticks: 24
