@@ -1,0 +1,74 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 8101
+      },
+      "model": "tiktokbattle:item/swordsman"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8102
+      },
+      "model": "tiktokbattle:item/archer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8103
+      },
+      "model": "tiktokbattle:item/infantry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8104
+      },
+      "model": "tiktokbattle:item/mage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8105
+      },
+      "model": "tiktokbattle:item/knight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8106
+      },
+      "model": "tiktokbattle:item/count"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8107
+      },
+      "model": "tiktokbattle:item/necromancer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8108
+      },
+      "model": "tiktokbattle:item/ancient_witch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8109
+      },
+      "model": "tiktokbattle:item/poseidon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8110
+      },
+      "model": "tiktokbattle:item/arsa_wolf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8111
+      },
+      "model": "tiktokbattle:item/mini_golem"
+    }
+  ]
+}
